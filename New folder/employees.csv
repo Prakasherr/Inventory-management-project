@@ -1,0 +1,31 @@
+employee_id,employee_name,email,phone,job_role,salary,joining_date,location,warehouse_id
+1,Vijay Kumar,vijay.kumar@inventorycompany.com,9710000001,Warehouse Manager,55000,2022-02-26,Chennai,1
+2,Arun Sharma,arun.sharma@inventorycompany.com,9710000002,Inventory Analyst,46000,2022-04-14,Coimbatore,2
+3,Priya Raj,priya.raj@inventorycompany.com,9710000003,Sales Executive,37000,2022-05-31,Bangalore,3
+4,Karthik Devi,karthik.devi@inventorycompany.com,9710000004,Purchase Executive,43000,2022-07-17,Hyderabad,4
+5,Sneha Krishnan,sneha.krishnan@inventorycompany.com,9710000005,Store Executive,36000,2022-09-02,Madurai,5
+6,Rahul Reddy,rahul.reddy@inventorycompany.com,9710000006,Data Entry Executive,28000,2022-10-19,Salem,1
+7,Divya Iyer,divya.iyer@inventorycompany.com,9710000007,Warehouse Manager,56000,2022-12-05,Trichy,2
+8,Suresh Nair,suresh.nair@inventorycompany.com,9710000008,Inventory Analyst,47000,2023-01-21,Chennai,3
+9,Meena Patel,meena.patel@inventorycompany.com,9710000009,Sales Executive,38000,2023-03-09,Coimbatore,4
+10,Ajay Singh,ajay.singh@inventorycompany.com,9710000010,Purchase Executive,44000,2023-04-25,Bangalore,5
+11,Kavya Kumar,kavya.kumar@inventorycompany.com,9710000011,Store Executive,32000,2023-06-11,Hyderabad,1
+12,Ravi Sharma,ravi.sharma@inventorycompany.com,9710000012,Data Entry Executive,29000,2023-07-28,Madurai,2
+13,Anitha Raj,anitha.raj@inventorycompany.com,9710000013,Warehouse Manager,57000,2023-09-13,Salem,3
+14,Dinesh Devi,dinesh.devi@inventorycompany.com,9710000014,Inventory Analyst,48000,2023-10-30,Trichy,4
+15,Pooja Krishnan,pooja.krishnan@inventorycompany.com,9710000015,Sales Executive,39000,2023-12-16,Chennai,5
+16,Manoj Reddy,manoj.reddy@inventorycompany.com,9710000016,Purchase Executive,40000,2024-02-01,Coimbatore,1
+17,Swathi Iyer,swathi.iyer@inventorycompany.com,9710000017,Store Executive,33000,2024-03-19,Bangalore,2
+18,Gokul Nair,gokul.nair@inventorycompany.com,9710000018,Data Entry Executive,30000,2024-05-05,Hyderabad,3
+19,Nisha Patel,nisha.patel@inventorycompany.com,9710000019,Warehouse Manager,58000,2024-06-21,Madurai,4
+20,Vignesh Singh,vignesh.singh@inventorycompany.com,9710000020,Inventory Analyst,49000,2024-08-07,Salem,5
+21,Harish Kumar,harish.kumar@inventorycompany.com,9710000021,Sales Executive,35000,2024-09-23,Trichy,1
+22,Deepa Sharma,deepa.sharma@inventorycompany.com,9710000022,Purchase Executive,41000,2024-11-09,Chennai,2
+23,Surya Raj,surya.raj@inventorycompany.com,9710000023,Store Executive,34000,2024-12-26,Coimbatore,3
+24,Keerthi Devi,keerthi.devi@inventorycompany.com,9710000024,Data Entry Executive,31000,2025-02-11,Bangalore,4
+25,Mohan Krishnan,mohan.krishnan@inventorycompany.com,9710000025,Warehouse Manager,59000,2025-03-30,Hyderabad,5
+26,Lakshmi Reddy,lakshmi.reddy@inventorycompany.com,9710000026,Inventory Analyst,45000,2025-05-16,Madurai,1
+27,Prakash Iyer,prakash.iyer@inventorycompany.com,9710000027,Sales Executive,36000,2025-07-02,Salem,2
+28,Ramesh Nair,ramesh.nair@inventorycompany.com,9710000028,Purchase Executive,42000,2022-01-26,Trichy,3
+29,Aishwarya Patel,aishwarya.patel@inventorycompany.com,9710000029,Store Executive,35000,2022-03-14,Chennai,4
+30,Santhosh Singh,santhosh.singh@inventorycompany.com,9710000030,Data Entry Executive,32000,2022-04-30,Coimbatore,5

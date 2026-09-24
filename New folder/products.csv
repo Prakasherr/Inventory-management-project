@@ -1,0 +1,101 @@
+product_id,product_code,product_name,brand,category_id,supplier_id,unit_price,reorder_level
+1,PROD0001,Wireless Mouse,Logitech,1,7,899,15
+2,PROD0002,Mechanical Keyboard,HP,2,14,2499,20
+3,PROD0003,Laptop 15.6 Inch,Dell,3,21,58999,25
+4,PROD0004,24 Inch Monitor,Samsung,4,28,12999,30
+5,PROD0005,USB Type-C Cable,Portronics,5,35,499,35
+6,PROD0006,Bluetooth Speaker,JBL,6,42,2999,10
+7,PROD0007,Wireless Headphones,Sony,7,49,4499,15
+8,PROD0008,Laptop Backpack,American Tourister,8,6,1899,20
+9,PROD0009,USB Flash Drive 64GB,SanDisk,9,13,699,25
+10,PROD0010,Portable SSD 500GB,Crucial,10,20,4999,30
+11,PROD0011,WiFi Router,TP-Link,1,27,2499,35
+12,PROD0012,Network Switch 8 Port,D-Link,2,34,1899,10
+13,PROD0013,Laser Printer,Canon,3,41,14999,15
+14,PROD0014,Inkjet Printer,HP,4,48,8999,20
+15,PROD0015,External Hard Drive 1TB,WD,5,5,5499,25
+16,PROD0016,Webcam Full HD,Logitech,6,12,3299,30
+17,PROD0017,USB Hub 4 Port,UGREEN,7,19,1199,35
+18,PROD0018,Power Bank 10000mAh,MI,8,26,1299,10
+19,PROD0019,HDMI Cable 2 Meter,AmazonBasics,9,33,599,15
+20,PROD0020,DisplayPort Cable,Belkin,10,40,999,20
+21,PROD0021,Office Chair,Featherlite,1,47,8999,25
+22,PROD0022,Computer Table,IKEA,2,4,6999,30
+23,PROD0023,A4 Paper Pack,JK Copier,3,11,349,35
+24,PROD0024,Ball Pen Pack,Reynolds,4,18,120,10
+25,PROD0025,Notebook A5,Classmate,5,25,90,15
+26,PROD0026,Desk Organizer,Solo,6,32,299,20
+27,PROD0027,Stapler Medium,Kangaro,7,39,180,25
+28,PROD0028,Printer Ink Black,Canon,8,46,799,30
+29,PROD0029,Printer Ink Color,HP,9,3,999,35
+30,PROD0030,SD Card 128GB,SanDisk,10,10,1199,10
+31,PROD0031,DDR4 RAM 8GB,Kingston,1,17,2299,15
+32,PROD0032,SSD 1TB,Samsung,2,24,7999,20
+33,PROD0033,Laptop Stand,Portronics,3,31,999,25
+34,PROD0034,USB Keyboard,Dell,4,38,799,30
+35,PROD0035,Gaming Mouse,Redragon,5,45,1799,35
+36,PROD0036,Gaming Keyboard,Redragon,6,2,3499,10
+37,PROD0037,Bluetooth Earbuds,OnePlus,7,9,2999,15
+38,PROD0038,Smartphone Charger 20W,MI,8,16,699,20
+39,PROD0039,USB-C Adapter,Anker,9,23,1299,25
+40,PROD0040,Ethernet Cable 10 Meter,D-Link,10,30,449,30
+41,PROD0041,Patch Cable 2 Meter,TP-Link,1,37,199,35
+42,PROD0042,Wireless Presenter,Logitech,2,44,1599,10
+43,PROD0043,Conference Microphone,JBL,3,1,5999,15
+44,PROD0044,Desktop Speakers,Zebronics,4,8,1299,20
+45,PROD0045,Surge Protector 6 Socket,Belkin,5,15,1799,25
+46,PROD0046,UPS 600VA,APC,6,22,4499,30
+47,PROD0047,UPS 1KVA,APC,7,29,7999,35
+48,PROD0048,Barcode Scanner,Honeywell,8,36,6999,10
+49,PROD0049,Thermal Printer,TVS,9,43,8999,15
+50,PROD0050,Label Printer,Brother,10,50,10999,20
+51,PROD0051,Laptop 14 Inch,Lenovo,1,7,54999,25
+52,PROD0052,Laptop 15 Inch,HP,2,14,57999,30
+53,PROD0053,Desktop Computer,Dell,3,21,48999,35
+54,PROD0054,Mini PC,Lenovo,4,28,32999,10
+55,PROD0055,Tablet 10 Inch,Samsung,5,35,19999,15
+56,PROD0056,Smartphone 128GB,Samsung,6,42,24999,20
+57,PROD0057,Smartphone 256GB,OnePlus,7,49,32999,25
+58,PROD0058,Tablet Cover,Spigen,8,6,1499,30
+59,PROD0059,Phone Screen Protector,Spigen,9,13,499,35
+60,PROD0060,Phone Case,Spigen,10,20,799,10
+61,PROD0061,Smartwatch,Noise,1,27,2999,15
+62,PROD0062,USB Microphone,Fifine,2,34,3999,20
+63,PROD0063,Studio Headphones,Audio-Technica,3,41,8999,25
+64,PROD0064,Portable Projector,Epson,4,48,32999,30
+65,PROD0065,Projector Screen,Epson,5,5,5999,35
+66,PROD0066,Document Scanner,Epson,6,12,18999,10
+67,PROD0067,All-in-One Printer,Brother,7,19,16999,15
+68,PROD0068,Printer Paper A3,JK Copier,8,26,599,20
+69,PROD0069,Whiteboard 4x3,Solo,9,33,2499,25
+70,PROD0070,Whiteboard Marker Pack,Camlin,10,40,180,30
+71,PROD0071,File Folder Pack,Solo,1,47,250,35
+72,PROD0072,Ring Binder,Kangaro,2,4,220,10
+73,PROD0073,Calculator,Casio,3,11,599,15
+74,PROD0074,Scientific Calculator,Casio,4,18,1299,20
+75,PROD0075,Office Desk Lamp,Philips,5,25,999,25
+76,PROD0076,LED Monitor 27 Inch,LG,6,32,17999,30
+77,PROD0077,Curved Monitor 32 Inch,Samsung,7,39,27999,35
+78,PROD0078,Gaming Monitor 24 Inch,Acer,8,46,14999,10
+79,PROD0079,WiFi Range Extender,TP-Link,9,3,2199,15
+80,PROD0080,Mesh WiFi System,TP-Link,10,10,6999,20
+81,PROD0081,Managed Switch 24 Port,Cisco,1,17,28999,25
+82,PROD0082,Network Cable Tester,D-Link,2,24,899,30
+83,PROD0083,Fiber Media Converter,TP-Link,3,31,1599,35
+84,PROD0084,HDMI Splitter,UGREEN,4,38,1299,10
+85,PROD0085,USB-C Docking Station,Dell,5,45,7999,15
+86,PROD0086,Laptop Charger 65W,Lenovo,6,2,2499,20
+87,PROD0087,Universal Laptop Charger,Portronics,7,9,1899,25
+88,PROD0088,Power Strip 4 Socket,Philips,8,16,799,30
+89,PROD0089,Bluetooth Adapter,TP-Link,9,23,699,35
+90,PROD0090,Wireless Network Adapter,TP-Link,10,30,1199,10
+91,PROD0091,Memory Card 64GB,Kingston,1,37,699,15
+92,PROD0092,Memory Card 256GB,SanDisk,2,44,1899,20
+93,PROD0093,NVMe SSD 500GB,WD,3,1,4499,25
+94,PROD0094,NVMe SSD 1TB,WD,4,8,7999,30
+95,PROD0095,External SSD 1TB,Samsung,5,15,9999,35
+96,PROD0096,USB 3.0 Cable,AmazonBasics,6,22,399,10
+97,PROD0097,Lightning Cable,Belkin,7,29,899,15
+98,PROD0098,Micro USB Cable,Portronics,8,36,299,20
+99,PROD0099,Laptop Cooling Pad,Cooler Master,9,43,1699,25
+100,PROD0100,CPU Cooler,Cooler Master,10,50,2999,30
